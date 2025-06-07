@@ -1,3 +1,7 @@
 Datasets
 *.sql
-*.csv
+Eval_Results
+Aggregates
+Models
+Samples
+*.db
